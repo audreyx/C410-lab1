@@ -1,0 +1,3 @@
+curl --request POST 'http://www.ualberta.ca'
+curl --request DELETE 'http://www.ualberta.ca'
+curl --request PUT 'http://www.ualberta.ca'
